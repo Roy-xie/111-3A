@@ -19,3 +19,7 @@ commit
 s = "Python Syntax highlighting"
 print(s)
 ```
+
+```javascript
+let s = "javascript Syntax highlighting"
+```
