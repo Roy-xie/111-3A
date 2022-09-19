@@ -4,9 +4,8 @@
 #### 111-3A C108118185 Roy-Xie
 ##### 111-3A C108118185 Roy-Xie
 ###### 111-3A C108118185 Roy-Xie
-系統分析與設計
 
-:smile:
+:smile: :eyes: :droplet: :trollface:
 
 
 ![NKUST](logo.png "高科大")
@@ -14,15 +13,17 @@
 
 - [ ] to do list
 - [X] done
-
+____________________________
 ```python
 s = "Python Syntax highlighting"
 print(s)
 ```
-
+_______________________
 ```javascript
-let s = "javascript Syntax highlighting"
+let s = "javascript Syntax highlighting";
+alert(s);
 ```
+_________________________
 表格：
 
 | Tables  | Are | Cool |
@@ -37,6 +38,7 @@ let s = "javascript Syntax highlighting"
 | still  | ```render``` | **nicely** |
 | 1 | 2 | 3 |
 
+_________________________________
 
 Emphasis, aka italics,with asterisks or underdcores.
 
