@@ -14,3 +14,8 @@ commit
 
 - [ ] to do list
 - [X] done
+
+```python
+s = "Python Syntax highlighting"
+print(s)
+```
